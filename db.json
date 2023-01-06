@@ -3,27 +3,27 @@
     {
       "id": "1",
       "title": "Loki",
-      " ": " "
+      "saw": ""
     },
     {
       "id": "2",
       "title": "Wandavision",
-      " ": " "
+      "saw": ""
     },
     {
       "id": "3",
       "title": "Armageddon",
-      " ": " "
+      "saw": "<i class=\"fa fa-check-circle-o\" aria-hidden=\"true\"></i>"
     },
     {
       "id": "4",
       "title": "Utolsó mohikán",
-      " ": " "
+      "saw": ""
     },
     {
       "id": "5",
       "title": "Hajnali mentőakció",
-      " ": " "
+      "saw": "<i class=\"fa fa-check-circle-o\" aria-hidden=\"true\"></i>"
     },
     {
       "id": "6",
@@ -53,7 +53,52 @@
     {
       "id": "11",
       "title": "Tökéletes trükk",
-      " ": " "
+      "saw": ""
+    },
+    {
+      "id": "12",
+      "title": "Prey",
+      "saw": "<i class=\"fa fa-check-circle-o\" aria-hidden=\"true\"></i>"
+    },
+    {
+      "id": "13",
+      "title": "A Grand Budapest hotel",
+      "saw": " "
+    },
+    {
+      "id": "14",
+      "title": "Halál a níluson",
+      "saw": " "
+    },
+    {
+      "id": "22",
+      "title": "Eiffel",
+      "saw": "<i class=\"fa fa-check-circle-o\" aria-hidden=\"true\"></i>"
+    },
+    {
+      "id": "25",
+      "title": "Alice in borderlands",
+      "saw": "<i class=\"fa fa-check-circle-o\" aria-hidden=\"true\"></i>"
+    },
+    {
+      "id": "26",
+      "title": "28 nappal később",
+      "saw": " "
+    },
+    {
+      "id": "27",
+      "title": "Gilbert Grape",
+      "saw": " "
+    },
+    {
+      "id": "29",
+      "title": "A kötéltánc",
+      "saw": " "
+    },
+    {
+      "id": "30",
+      "title": "Blue Mountain State",
+      "saw": " "
     }
   ]
 }
